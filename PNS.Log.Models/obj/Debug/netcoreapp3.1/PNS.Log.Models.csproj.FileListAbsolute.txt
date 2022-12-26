@@ -1,0 +1,10 @@
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\bin\Debug\netcoreapp3.1\PNS.Log.Models.deps.json
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\bin\Debug\netcoreapp3.1\PNS.Log.Models.dll
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\bin\Debug\netcoreapp3.1\PNS.Log.Models.pdb
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\obj\Debug\netcoreapp3.1\PNS.Log.Models.csproj.AssemblyReference.cache
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\obj\Debug\netcoreapp3.1\PNS.Log.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\obj\Debug\netcoreapp3.1\PNS.Log.Models.AssemblyInfoInputs.cache
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\obj\Debug\netcoreapp3.1\PNS.Log.Models.AssemblyInfo.cs
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\obj\Debug\netcoreapp3.1\PNS.Log.Models.csproj.CoreCompileInputs.cache
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\obj\Debug\netcoreapp3.1\PNS.Log.Models.dll
+C:\Users\ismail.sevim\source\repos\PNS.Log\PNS.Log.Models\obj\Debug\netcoreapp3.1\PNS.Log.Models.pdb
